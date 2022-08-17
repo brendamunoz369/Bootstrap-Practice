@@ -1,0 +1,22 @@
+.nav-list{
+    align-items: center;
+    margin-left: 500px;
+    padding-top: 40px;
+    font-size: 20px;
+    
+
+}
+
+.nav-item{
+    color: aliceblue;
+}
+
+
+
+
+body{
+background-image: url(images/prueba.jpeg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+}
